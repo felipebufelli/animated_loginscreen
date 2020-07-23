@@ -2,9 +2,6 @@ import 'package:animated_loginscreen/screens/login/widgets/input_field.dart';
 import 'package:flutter/material.dart';
 
 class FormContainer extends StatelessWidget {
-
-
-
   @override
   Widget build(BuildContext context) {
     return Container(
