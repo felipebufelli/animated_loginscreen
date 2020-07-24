@@ -1,4 +1,4 @@
-import 'package:animated_loginscreen/screens/login/login_screen.dart';
+import 'package:animated_loginscreen/screens/splash/splash_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Animates Login Screen',
       debugShowCheckedModeBanner: false,
-      home: LoginScreen(),
+      home: SplashScreen(),
     );
   }
 }
