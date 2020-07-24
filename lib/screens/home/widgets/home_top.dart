@@ -1,3 +1,4 @@
+import 'package:animated_loginscreen/screens/home/widgets/categoy_view.dart';
 import 'package:flutter/material.dart';
 
 class HomeTop extends StatelessWidget {
@@ -57,6 +58,7 @@ class HomeTop extends StatelessWidget {
               ),
             ),
           ),
+          CategoryView(),
         ],
       )),
     );

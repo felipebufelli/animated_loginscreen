@@ -34,8 +34,9 @@ class StaggerAnimation extends StatelessWidget {
         onTap: (){
           controller.forward();
         },
-        child: 
-        buttonZoomOut.value <= 70 ?
+        child: Hero(
+          tag: 'loginToHome', 
+          child: buttonZoomOut.value <= 70 ?
           Container(
             width: buttonSqueeze.value,
             height: 60.0,
@@ -58,6 +59,7 @@ class StaggerAnimation extends StatelessWidget {
                 BoxShape.rectangle
             ),
           )
+        )
       ),
     );
   }

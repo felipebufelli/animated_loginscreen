@@ -1,4 +1,4 @@
-#Fri Jul 24 15:53:51 BRT 2020
+#Fri Jul 24 16:42:18 BRT 2020
 base.0=/home/bufelli/Documents/dev_projects/animated_loginscreen/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
