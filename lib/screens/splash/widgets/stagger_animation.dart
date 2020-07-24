@@ -6,7 +6,7 @@ class StaggerAnimation extends StatelessWidget {
   StaggerAnimation({@required this.controller})
     : checkMargin = Tween(begin: 200.0 , end: 70.0).animate(CurvedAnimation(
         parent: controller,
-        curve: Interval(0.5, 1.0, curve: Curves.ease),
+        curve: Interval(0.5, 1.0, curve: Curves.decelerate),
       ));
   final Animation<double> checkMargin;
 

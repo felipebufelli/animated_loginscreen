@@ -30,8 +30,8 @@
 25        android:debuggable="true"
 26        android:icon="@mipmap/ic_launcher"
 26-->/home/bufelli/Documents/dev_projects/animated_loginscreen/android/app/src/main/AndroidManifest.xml:11:9-43
-27        android:label="animated_loginscreen" >
-27-->/home/bufelli/Documents/dev_projects/animated_loginscreen/android/app/src/main/AndroidManifest.xml:10:9-45
+27        android:label="Login Screen Animated" >
+27-->/home/bufelli/Documents/dev_projects/animated_loginscreen/android/app/src/main/AndroidManifest.xml:10:9-46
 28        <activity
 28-->/home/bufelli/Documents/dev_projects/animated_loginscreen/android/app/src/main/AndroidManifest.xml:12:9-23:20
 29            android:name="br.com.felipebufelli.animated_loginscreen.MainActivity"

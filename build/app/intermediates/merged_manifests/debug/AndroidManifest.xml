@@ -24,7 +24,7 @@
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="animated_loginscreen" >
+        android:label="Login Screen Animated" >
         <activity
             android:name="br.com.felipebufelli.animated_loginscreen.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
